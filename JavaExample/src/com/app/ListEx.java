@@ -1,0 +1,18 @@
+package com.app;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListEx {
+
+	public static void main(String[] args) {
+		List<String> names = new ArrayList<>();
+		names.add("Raj");
+		names.add("Samuel");
+		for(String name : names) {
+			System.out.println("name: "+name);
+		}
+		
+	}
+
+}
