@@ -13,6 +13,7 @@ names.add("shultz");
 names.add("anu");
 		for(String name : names) {
 			System.out.println("name: "+name);
+			System.out.println("dummy");
 		}
 		
 	}
