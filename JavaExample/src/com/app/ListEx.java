@@ -9,13 +9,13 @@ public class ListEx {
 		List<String> names = new ArrayList<>();
 		names.add("Raj");
 		names.add("Samuel");
-names.add("shultz");
-names.add("anu");
+		names.add("shultz");
+		names.add("anu");
 		for(String name : names) {
 			System.out.println("name: "+name);
 			System.out.println("dummy");
-		}
-		
-	}
 
+		}
+
+}
 }
