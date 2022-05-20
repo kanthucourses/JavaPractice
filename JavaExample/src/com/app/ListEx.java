@@ -18,7 +18,7 @@ public class ListEx {
 			System.out.println("name: "+name);//duplicate3
 			System.out.println("dummy");
 			System.out.println("dummy");
-			System.out.println("dummy");
+
 		}
 
 }
