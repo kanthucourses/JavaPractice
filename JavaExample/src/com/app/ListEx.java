@@ -14,6 +14,7 @@ public class ListEx {
 		for(String name : names) {
 			System.out.println("name: "+name);
 			System.out.println("name: "+name);//duplicate
+			System.out.println("name: "+name);//duplicate2
 		}
 		
 	}
