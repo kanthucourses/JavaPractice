@@ -14,7 +14,7 @@ public class ListEx {
 		for(String name : names) {
 			System.out.println("name: "+name);
 			System.out.println("dummy");
-
+			System.out.println("dummy");
 		}
 
 }
