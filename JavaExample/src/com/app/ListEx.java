@@ -13,6 +13,7 @@ public class ListEx {
 		names.add("anu");
 		for(String name : names) {
 			System.out.println("name: "+name);
+			System.out.println("name: "+name);//duplicate
 		}
 		
 	}
