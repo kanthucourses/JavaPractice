@@ -9,6 +9,7 @@ public class ListEx {
 		List<String> names = new ArrayList<>();
 		names.add("Raj");
 		names.add("Samuel");
+		names.add("shultz");
 		for(String name : names) {
 			System.out.println("name: "+name);
 		}
